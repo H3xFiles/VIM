@@ -1,4 +1,4 @@
-# VIM
+# VIM working in progress
 
 ### Links:
 - https://github.com/junegunn/vim-plug
